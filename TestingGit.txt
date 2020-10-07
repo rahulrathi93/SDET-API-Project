@@ -1,2 +1,3 @@
 Hello! This is a test for Git
 !!Adding this extra line!!
+Today is Wednesday!
